@@ -1,24 +1,65 @@
-# 👋 Hi, I'm Soham Khot
+# 👋 Hey there, I'm Soham Khot
 
-## 🧑‍💻 About Me
-- 🔭 I’m currently working on: [FoundItHub](https://github.com/Spkhot/FoundItHub)
-- 🌱 I’m currently learning: MERN Stack, Cloud Deployment
-- 💬 Ask me about: JavaScript, Node.js, MongoDB, and GitHub
-- 📫 How to reach me: [sohamkhot] | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sohamkhot75/))
-- ⚡ Fun fact: I build things that solve real-world problems!
+A passionate full-stack web developer who loves turning ideas into scalable products. I build modern, real-world web apps with clean UI and powerful backend logic. Currently exploring AI + web integrations and improving product design.
 
-## 📈 GitHub Stats
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spkhot&show_icons=true&theme=radical)
+---
 
-## 🧰 Tech Stack
+## 🚀 Projects
+
+| Project | Description | Live |
+|--------|-------------|------|
+| 💭 **ThoughtDrop** | An anonymous thought-sharing platform with time-limited reply deletion | [thougthsdrop.onrender.com](https://thougthsdrop.onrender.com) |
+| 🎯 **TapType** | A desktop typing trainer built with Electron | [tap-type.vercel.app](https://tap-type.vercel.app/) |
+| 🔍 **FoundItHub** | Lost & Found portal with smart category filters and image uploads | [foundit-imky.onrender.com](https://foundit-imky.onrender.com) |
+
+---
+
+## 🛠 Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
 
-## 📂 Projects
-- 🔎 [FoundItHub - Lost & Found Portal](https://github.com/Spkhot/FoundItHub)
-- 🧠 [ThoughtDrop - Anonymous Thought Sharing](https://github.com/Spkhot/ThougthsDrop)
-- 🎯 [TapType - Typing Trainer](https:\\tap-type.vercel.app)
+---
+
+## 📊 Coding Profiles
+
+- 🧠 LeetCode: [leetcode.com/u/sohamkhot_57](https://leetcode.com/u/sohamkhot_57/)
+- 🧩 CodeChef: [codechef.com/users/sohamkhot_57](https://www.codechef.com/users/sohamkhot_57)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sohamkhot75/)
+- 📧 Email: `your-email@example.com` (replace with your email)
+- 🌐 Portfolio (coming soon...)
+
+---
+
+## 📈 GitHub Stats
+
+![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spkhot&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spkhot&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Currently Learning
+
+- 🔐 Authentication & Authorization best practices
+- 🌐 Advanced APIs and microservices
+- ☁️ Cloud deployments (Render, Vercel, Cloudinary)
+- 🎨 UI/UX design with Tailwind and animations
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
 
