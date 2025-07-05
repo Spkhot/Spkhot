@@ -10,7 +10,7 @@ A passionate full-stack web developer who loves turning ideas into scalable prod
 |--------|-------------|------|
 | 💭 **ThoughtDrop** | An anonymous thought-sharing platform with time-limited reply deletion | [thougthsdrop.onrender.com](https://thougthsdrop.onrender.com) |
 | 🎯 **TapType** | A desktop typing trainer built with Electron | [tap-type.vercel.app](https://tap-type.vercel.app/) |
-| 🔍 **FoundItHub** | Lost & Found portal with smart category filters and image uploads | [foundit-imky.onrender.com](https://foundit-imky.onrender.com) |
+| 🔍 **FoundItHub** | Lost & Found portal with smart category filters and image uploads | [foundit-imky.onrender.com](https://foundithub.onrender.com) |
 
 ---
 
