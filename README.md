@@ -38,8 +38,8 @@ A passionate full-stack web developer who loves turning ideas into scalable prod
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sohamkhot75/)
-- 📧 Email: `your-email@example.com` (replace with your email)
-- 🌐 Portfolio (coming soon...)
+- 📧 Email: `sohamkhot75@gmail.com` 
+- 🌐 Portfolio (https://novaminds.netlify.com/)
 
 ---
 
