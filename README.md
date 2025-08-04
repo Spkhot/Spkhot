@@ -39,7 +39,7 @@ A passionate full-stack web developer who loves turning ideas into scalable prod
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sohamkhot75/)
 - 📧 Email: `sohamkhot75@gmail.com` 
-- 🌐 Portfolio (https://novaminds.netlify.com/)
+- 🌐 Portfolio (https://novaminds.netlify.app/)
 
 ---
 
