@@ -11,7 +11,7 @@ A passionate full-stack web developer who loves turning ideas into scalable prod
 | 📈 **The Habit Loop** |  to help users build a consistent coding habit by delivering daily, bite-sized challenges directly to their WhatsApp. | [thehabitloop.onrender.com](https://thehabitloop.onrender.com) |
 | 💭 **Schedulo** | An email reminder platform with future scheduling and automatic delivery | [senemaillater.onrender.com](https://sendemaillater.onrender.com) |
 | 🎯 **TapType** | A desktop typing trainer built with Electron | [tap-type.vercel.app](https://tap-type.vercel.app/) |
-| 🔍 **Portfolio** | Check my work | [foundit-imky.onrender.com](https://spkhot.github.io/portfolio-website/) |
+| 🔍 **Portfolio** | Check my work | [portfolio.com](https://spkhot.github.io/portfolio-website/) |
 
 ---
 
